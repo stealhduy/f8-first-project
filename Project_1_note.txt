@@ -1,0 +1,11 @@
+1. Phân tích thành phần web: ---> OK
+ a, Header ---> OK
+ b, Slider
+ c, Content
+   + About
+   + Tour
+   + Contact
+   + Image
+ d, Footer
+
+2. Dựng base
